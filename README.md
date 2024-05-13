@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Simple Landing Page built using HTML and CSS. It features a background image and a side navigation bar with a close button. The navigation bar contains unordered list elements.
+This Activity is a Simple Landing Page built using HTML and CSS. It features a background image and a side navigation bar with a close button. The navigation bar contains unordered list elements.
 
 ## Preview
 
